@@ -1,0 +1,9 @@
+sentence-transformers
+tqdm
+faiss-gpu
+tabulate
+sentencepiece
+sacrebleu
+tensorboard
+kenlm
+matplotlib
